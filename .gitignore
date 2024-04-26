@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Do not track any csv file
+*.csv
+
 # C extensions
 *.so
 
